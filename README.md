@@ -4,6 +4,7 @@ Usage:
 
 a proof of concept based on 
 https://www.vulnspy.com/en-cve-2018-6389-wordpress-denial-of-service-dos-vulnerability/
+The are no doubt 398234 better ones in python, give or take a few, I'm just playing around with bash scripting.
 
 Requires Bash, Tor, and Curl.
 

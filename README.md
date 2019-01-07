@@ -6,3 +6,5 @@ a proof of concept based on
 https://www.vulnspy.com/en-cve-2018-6389-wordpress-denial-of-service-dos-vulnerability/
 
 Requires Bash, Tor, and Curl.
+
+LICENSE: Don't use this at all, you are not allowed to use this. I am not responsible for anything at all that happens as a result of the violation of this software license.

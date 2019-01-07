@@ -1,4 +1,4 @@
-# WordpressDOSPOC
+# wordPressDOSPOC
 Usage:
 ./launch.sh http://target-wordpress-installation-you-own.foo.bar | #number of requests | #seconds to sleep after each wave
 
